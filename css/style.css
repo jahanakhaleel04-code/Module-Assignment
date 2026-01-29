@@ -1,0 +1,52 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    max-height: 100vh;
+       background: linear-gradient(135deg, #e73b18bb, #d8830ce1);
+}
+ 
+
+.card-reg {
+    font-size: 1rem;
+    /* line-height: 1; */
+    /* padding-left: .75em; */
+    /* padding-right: .75em; */
+   
+    
+
+}
+#signUpBtn{
+    background-color: rgb(240, 134, 68);
+    border: none;
+    width: 100%;
+}
+/* span p {
+    color: red;
+} */
+.required{
+    color:red
+}
+.card-reg img{
+    max-height: 200px;
+    object-fit: cover;
+}
+/* .card-login img{
+    max-height: 400px;
+    object-fit: cover;
+} */
+/* .card-login{
+    height: 400px;
+} */
+#signInBtn{
+    background-color: rgb(240, 134, 68);
+    border: none;
+    width: 100%;
+}
+p a{
+    color: rgb(167, 75, 4);
+}
